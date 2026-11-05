@@ -8,7 +8,7 @@ A beautiful, production-ready Streamlit app that summarizes **YouTube videos** a
 
 ---
 
-
+![Alt text describing the image]()
 
 ## ✨ Features
 
